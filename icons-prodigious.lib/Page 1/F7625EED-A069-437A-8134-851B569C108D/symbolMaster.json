@@ -10,7 +10,7 @@
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "9668D577-177E-49DC-AB78-ED174069967D",
+  "do_objectID": "F7625EED-A069-437A-8134-851B569C108D",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -23,9 +23,9 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 15,
-    "width": 15,
-    "x": 275,
+    "height": 16,
+    "width": 16,
+    "x": 414,
     "y": 338
   },
   "groupLayout": {
@@ -57,10 +57,10 @@
   "layers": [
     {
       "class": "group",
-      "id": "697BCCFC-54AF-4F9A-B6E4-255BF8DA0BEE"
+      "id": "A67DC5FE-7B55-4FEC-9462-3FE279EBBB69"
     }
   ],
-  "name": "16X16/car",
+  "name": "16X16/moto",
   "nameIsFixed": true,
   "overrideProperties": [
   ],
@@ -105,7 +105,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "FEA65179-F6E4-4CF2-8A76-4077DF445296",
+    "do_objectID": "43A38B31-84D0-4F5E-A83D-72A6BBC8EB82",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -117,7 +117,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "80ADE6AD-47B2-4F01-B825-CA0E2B0F35DB",
+  "symbolID": "3FD30D7E-0B32-4014-8ED6-FCD9E44FBC9A",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

@@ -10,7 +10,7 @@
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "9668D577-177E-49DC-AB78-ED174069967D",
+  "do_objectID": "287724DA-AB91-4621-8DD6-96D6C722273E",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -23,10 +23,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 15,
-    "width": 15,
-    "x": 275,
-    "y": 338
+    "height": 16,
+    "width": 16,
+    "x": 276,
+    "y": 365
   },
   "groupLayout": {
     "_class": "MSImmutableInferredGroupLayout",
@@ -36,7 +36,7 @@
     "minSize": 0
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -57,10 +57,10 @@
   "layers": [
     {
       "class": "group",
-      "id": "697BCCFC-54AF-4F9A-B6E4-255BF8DA0BEE"
+      "id": "4EA2D155-DFF6-45C2-9A7A-00E2CEFA3166"
     }
   ],
-  "name": "16X16/car",
+  "name": "16X16/exit",
   "nameIsFixed": true,
   "overrideProperties": [
   ],
@@ -105,7 +105,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "FEA65179-F6E4-4CF2-8A76-4077DF445296",
+    "do_objectID": "A06796D1-FD8B-4311-9EFC-4B29F984421F",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -117,7 +117,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "80ADE6AD-47B2-4F01-B825-CA0E2B0F35DB",
+  "symbolID": "626585C1-F61A-4881-9AC5-D51ED425E307",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

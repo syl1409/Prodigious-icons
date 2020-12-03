@@ -1,16 +1,8 @@
 {
-  "_class": "symbolMaster",
-  "allowsOverrides": true,
-  "backgroundColor": {
-    "_class": "color",
-    "alpha": 1,
-    "blue": 1,
-    "green": 1,
-    "red": 1
-  },
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "9668D577-177E-49DC-AB78-ED174069967D",
+  "do_objectID": "E9F64EA6-F305-46AF-9635-6097363A61D8",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -23,54 +15,54 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 15,
-    "width": 15,
-    "x": 275,
-    "y": 338
+    "height": 32,
+    "width": 28,
+    "x": 6,
+    "y": 4
   },
   "groupLayout": {
-    "_class": "MSImmutableInferredGroupLayout",
-    "axis": 0,
-    "layoutAnchor": 1,
-    "maxSize": 0,
-    "minSize": 0
+    "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasBackgroundColor": false,
   "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
-  },
-  "includeBackgroundColorInExport": true,
-  "includeBackgroundColorInInstance": true,
-  "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "group",
-      "id": "697BCCFC-54AF-4F9A-B6E4-255BF8DA0BEE"
+      "class": "shapePath",
+      "id": "993C8047-C0B5-46D2-9621-AE90E23C9C16"
+    },
+    {
+      "class": "shapePath",
+      "id": "B6FB1C56-7548-4439-BCCA-878384FD66B3"
+    },
+    {
+      "class": "shapePath",
+      "id": "8B75B41A-7BAF-40FF-93A4-A62C8202321F"
+    },
+    {
+      "class": "shapePath",
+      "id": "07E980B6-F0B5-43AD-A394-8B7071856CDE"
+    },
+    {
+      "class": "shapePath",
+      "id": "CA469DFA-C543-425F-A536-F41ADEA081AB"
+    },
+    {
+      "class": "shapePath",
+      "id": "49347F9C-1D9F-49FD-8945-43D800D52FEB"
     }
   ],
-  "name": "16X16/car",
-  "nameIsFixed": true,
-  "overrideProperties": [
-  ],
-  "presetDictionary": {
-  },
-  "resizesContent": true,
+  "name": "trash",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": true,
+  "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "blur": {
@@ -105,7 +97,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "FEA65179-F6E4-4CF2-8A76-4077DF445296",
+    "do_objectID": "FF0F99D3-CE75-4AC4-AFF8-7CA9AA69F78D",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -116,12 +108,5 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "symbolID": "80ADE6AD-47B2-4F01-B825-CA0E2B0F35DB",
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
   }
 }

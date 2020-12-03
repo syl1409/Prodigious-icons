@@ -1,16 +1,8 @@
 {
-  "_class": "symbolMaster",
-  "allowsOverrides": true,
-  "backgroundColor": {
-    "_class": "color",
-    "alpha": 1,
-    "blue": 1,
-    "green": 1,
-    "red": 1
-  },
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "9668D577-177E-49DC-AB78-ED174069967D",
+  "do_objectID": "6D1D226C-F2FD-43D4-B1A3-AD286D7A6AC7",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -23,54 +15,66 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 15,
-    "width": 15,
-    "x": 275,
-    "y": 338
+    "height": 26,
+    "width": 37,
+    "x": 2,
+    "y": 7
   },
   "groupLayout": {
-    "_class": "MSImmutableInferredGroupLayout",
-    "axis": 0,
-    "layoutAnchor": 1,
-    "maxSize": 0,
-    "minSize": 0
+    "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasBackgroundColor": false,
   "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
-  },
-  "includeBackgroundColorInExport": true,
-  "includeBackgroundColorInInstance": true,
-  "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "697BCCFC-54AF-4F9A-B6E4-255BF8DA0BEE"
+      "class": "shapePath",
+      "id": "169BCB3C-F849-4F6A-A61D-5C932CCC7AC8"
+    },
+    {
+      "class": "shapePath",
+      "id": "B9B2D9E8-53AF-43AF-84D4-0F38EA88556C"
+    },
+    {
+      "class": "shapePath",
+      "id": "730D46D6-0668-4945-B7C9-BDDBD996FB6A"
+    },
+    {
+      "class": "shapePath",
+      "id": "69A9F0A6-5325-4B0D-AC20-B1552F69BE36"
+    },
+    {
+      "class": "shapePath",
+      "id": "30ECE52F-DAC2-468C-9DB0-2AC8270F6657"
+    },
+    {
+      "class": "shapePath",
+      "id": "0704FCDE-2BF1-4A1C-995C-0DAF8866D960"
+    },
+    {
+      "class": "shapePath",
+      "id": "45B01F66-4E6F-44C0-BB19-9B8A45ABA44E"
+    },
+    {
+      "class": "shapePath",
+      "id": "2994F617-A615-4F3B-8904-FFCFAFB79001"
+    },
+    {
+      "class": "shapePath",
+      "id": "45024D2E-2B57-4ED9-9C3E-C191B67AD51F"
     }
   ],
-  "name": "16X16/car",
-  "nameIsFixed": true,
-  "overrideProperties": [
-  ],
-  "presetDictionary": {
-  },
-  "resizesContent": true,
+  "name": "moto",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": true,
+  "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "blur": {
@@ -105,7 +109,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "FEA65179-F6E4-4CF2-8A76-4077DF445296",
+    "do_objectID": "6BC98A87-DD0B-4F03-86ED-B345B136A297",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -116,12 +120,5 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "symbolID": "80ADE6AD-47B2-4F01-B825-CA0E2B0F35DB",
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
   }
 }

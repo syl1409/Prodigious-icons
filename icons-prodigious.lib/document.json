@@ -24,7 +24,31 @@
   "colorSpace": 0,
   "do_objectID": "6719E0F8-D4D9-4290-B98C-EB166D30381E",
   "documentState": {
-    "_class": "documentState"
+    "_class": "documentState",
+    "cloudShare": {
+      "createdAt": "2020-12-03T15:13:18.787Z",
+      "currentVersion": {
+        "createdAt": "2020-12-03T15:13:18.000Z",
+        "id": "53f9f7dc-a2fd-48a2-a67e-c2b8cd2f8f6a",
+        "updatedAt": "2020-12-03T15:13:18.000Z"
+      },
+      "id": "11b63720-86b9-47c3-903a-b87c95dd976b",
+      "isPrivate": 1,
+      "libraryEnabled": 1,
+      "name": "icons-prodigious.lib",
+      "owner": {
+        "__typename": "PublicUser",
+        "createdAt": "2020-12-03T17:34:57.728Z",
+        "id": "6f827410-bee2-4672-bfad-3f65fc0d4779",
+        "updatedAt": "2020-12-03T17:34:57.728Z"
+      },
+      "previewThumbnails": [
+      ],
+      "publicUrl": "https://sketch.cloud/s/11b63720-86b9-47c3-903a-b87c95dd976b",
+      "shortId": "11b63720-86b9-47c3-903a-b87c95dd976b",
+      "updatedAt": "2020-12-03T15:13:30.118Z",
+      "viewerCanUpdate": 1
+    }
   },
   "fontReferences": [
   ],
